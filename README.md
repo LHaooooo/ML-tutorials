@@ -7,5 +7,6 @@ Machine Learning tutorials in sklearn.
 3. Logistic Regression
 4. Naiive Bayes
 5. SVM
+6. Decision Tree
 
 - Cross validation, Grid search
