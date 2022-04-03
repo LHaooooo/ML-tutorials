@@ -9,5 +9,6 @@ Machine Learning tutorials in sklearn.
 5. SVM
 6. Decision Tree
 7. Ensemble Learning
+8. PCA
 
 - Cross validation, Grid search
