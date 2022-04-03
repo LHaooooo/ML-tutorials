@@ -8,5 +8,6 @@ Machine Learning tutorials in sklearn.
 4. Naiive Bayes
 5. SVM
 6. Decision Tree
+7. Ensemble Learning
 
 - Cross validation, Grid search
