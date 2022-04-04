@@ -10,5 +10,5 @@ Machine Learning tutorials in sklearn.
 6. Decision Tree
 7. Ensemble Learning
 8. PCA
-
+9. K-Means
 - Cross validation, Grid search
