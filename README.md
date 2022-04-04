@@ -2,13 +2,14 @@
 
 Machine Learning tutorials in sklearn.
 
-1. K Nearest Neighbors
-2. Linear Regressions (standard, Ridge, Lasso)
-3. Logistic Regression
-4. Naiive Bayes
-5. SVM
-6. Decision Tree
-7. Ensemble Learning
-8. PCA
-9. K-Means
+01. K Nearest Neighbors
+02. Linear Regressions (standard, Ridge, Lasso)
+03. Logistic Regression
+04. Naiive Bayes
+05. SVM
+06. Decision Tree
+07. Ensemble Learning
+08. PCA
+09. K-Means
+10. GMM
 - Cross validation, Grid search
