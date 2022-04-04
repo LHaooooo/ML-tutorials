@@ -12,4 +12,5 @@ Machine Learning tutorials in sklearn.
 08. PCA
 09. K-Means
 10. GMM
+11. DBSCAN
 - Cross validation, Grid search
