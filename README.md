@@ -15,3 +15,4 @@ Machine Learning tutorials in sklearn.
 11. DBSCAN
 - Cross validation, Grid search
 - Save and Load
+- Data Understanding
