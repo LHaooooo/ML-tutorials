@@ -3,7 +3,7 @@
 Machine Learning tutorials in sklearn.
 
 01. K Nearest Neighbors
-02. Linear Regressions (standard, Ridge, Lasso)
+02. Regressions (Linear, Polynomial, Ridge, Lasso)
 03. Logistic Regression
 04. Naiive Bayes
 05. SVM
